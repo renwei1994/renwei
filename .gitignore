@@ -33,3 +33,9 @@ build/
 ### VS Code ###
 .vscode/
 
+# IntelliJ project files
+.idea
+*.iml
+src/main/resources/static/
+src/main/resources/templates/
+!/.idea/

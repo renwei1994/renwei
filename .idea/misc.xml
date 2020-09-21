@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/jdkdemo/pom.xml" />
         <option value="$PROJECT_DIR$/redis_demo/pom.xml" />
         <option value="$PROJECT_DIR$/mongodb_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/module_mongodb_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/module_redis_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/module_jdk_demo/pom.xml" />
       </list>
     </option>
   </component>

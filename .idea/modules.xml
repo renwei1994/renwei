@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/module_jdk_demo/jdkdemo.iml" filepath="$PROJECT_DIR$/module_jdk_demo/jdkdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_mongodb_demo/mongodb_demo (1).iml" filepath="$PROJECT_DIR$/module_mongodb_demo/mongodb_demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_mongodb_demo/mongodb_demo (2).iml" filepath="$PROJECT_DIR$/module_mongodb_demo/mongodb_demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_redis_demo/redis_demo.iml" filepath="$PROJECT_DIR$/module_redis_demo/redis_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/renwei.iml" filepath="$PROJECT_DIR$/renwei.iml" />
     </modules>
   </component>
