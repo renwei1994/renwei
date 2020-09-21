@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+module_jdk_demo/src/main/resources/static/
+module_jdk_demo/src/main/resources/templates/
+module_mongodb_demo/src/main/resources/static/
+module_mongodb_demo/src/main/resources/templates/
+module_redis_demo/src/main/resources/static/
+module_redis_demo/src/main/resources/templates/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+
+# IntelliJ project files
+.idea
+*.iml
