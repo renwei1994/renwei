@@ -7,11 +7,16 @@
         <option value="$PROJECT_DIR$/jdkdemo/pom.xml" />
         <option value="$PROJECT_DIR$/redis_demo/pom.xml" />
         <option value="$PROJECT_DIR$/mongodb_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/module_common/pom.xml" />
+        <option value="$PROJECT_DIR$/module-service-renwei-system/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/module_jdk_demo/pom.xml" />
         <option value="$PROJECT_DIR$/module_mongodb_demo/pom.xml" />
         <option value="$PROJECT_DIR$/module_redis_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/module_jdk_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/module_common/pom.xml" />
-      </list>
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
