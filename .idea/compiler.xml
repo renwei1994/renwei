@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="redis_demo" />
         <module name="mongodb_demo (2)" />
         <module name="renwei" />
+        <module name="module_common" />
         <module name="mongodb_demo (1)" />
         <module name="jdkdemo" />
+        <module name="redis_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jdkdemo" target="1.8" />
+      <module name="module_common" target="1.8" />
       <module name="module_jdk_demo" target="1.8" />
       <module name="module_mongodb_demo" target="1.8" />
       <module name="module_redis_demo" target="1.8" />
@@ -27,6 +29,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="jdkdemo" options="-parameters" />
+      <module name="module_common" options="-parameters" />
       <module name="module_jdk_demo" options="-parameters" />
       <module name="module_mongodb_demo" options="-parameters" />
       <module name="module_redis_demo" options="-parameters" />

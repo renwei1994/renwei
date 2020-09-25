@@ -14,6 +14,13 @@
     <name>renwei</name>
     <description>Demo project for Spring Boot</description>
 
+    <modules>
+        <module>module_common</module>
+        <module>module_jdk_demo</module>
+        <module>module_mongodb_demo</module>
+        <module>module_redis_demo</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
