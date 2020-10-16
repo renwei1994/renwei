@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="module_common" />
+        <module name="annotation" />
         <module name="renwei" />
         <module name="module-service-renwei-system" />
-        <module name="module_common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="annotation" target="1.8" />
       <module name="jdkdemo" target="1.8" />
       <module name="module-service-renwei-system" target="1.8" />
       <module name="module_common" target="1.8" />
@@ -26,6 +28,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="annotation" options="-parameters" />
       <module name="jdkdemo" options="-parameters" />
       <module name="module-service-renwei-system" options="-parameters" />
       <module name="module_common" options="-parameters" />

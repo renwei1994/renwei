@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-service-renwei-system/module-service-renwei-system.iml" filepath="$PROJECT_DIR$/module-service-renwei-system/module-service-renwei-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_common/module_common.iml" filepath="$PROJECT_DIR$/module_common/module_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/renwei.iml" filepath="$PROJECT_DIR$/renwei.iml" />
