@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/module_common/pom.xml" />
         <option value="$PROJECT_DIR$/module-service-renwei-system/pom.xml" />
         <option value="$PROJECT_DIR$/annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/dome_thread/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
