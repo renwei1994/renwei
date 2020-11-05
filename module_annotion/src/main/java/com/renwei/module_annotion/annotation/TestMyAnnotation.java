@@ -1,4 +1,4 @@
-package com.renwei.annotation.annotation;
+package com.renwei.module_annotion.annotation;
 
 @MyAnnotation(name = "renwei", age = 18, hight = 125, doWork = @MyAnnotation2, doWork1 = MyAnnotationEbum.P1, doWork2 = {"renwei","liuyifei"})
 public class TestMyAnnotation {

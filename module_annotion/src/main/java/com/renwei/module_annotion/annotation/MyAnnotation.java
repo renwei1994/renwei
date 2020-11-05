@@ -1,4 +1,4 @@
-package com.renwei.annotation.annotation;
+package com.renwei.module_annotion.annotation;
 
 import java.lang.annotation.*;
 
