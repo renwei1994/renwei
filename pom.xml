@@ -16,8 +16,7 @@
 
     <modules>
         <module>module_common</module>
-        <module>annotation</module>
-        <module>module-service-renwei-system</module>
+        <module>module_datasource</module>
         <module>module_thread</module>
         <module>module_annotion</module>
     </modules>
