@@ -12,8 +12,6 @@ public class MySynchronized {
 
 
     public static void main(String[] args) {
-        MySynchronized mySynchronized = new MySynchronized();
-
         new Thread(()->{
             try {
                 new MySynchronized().testMySynchronized();
@@ -36,8 +34,6 @@ public class MySynchronized {
             }
         }).start();
     }
-
-
 
     public void  testMySynchronized() throws InterruptedException {
         System.err.println(Thread.currentThread().getName()+"进来 。。。。。");
@@ -47,6 +43,4 @@ public class MySynchronized {
             System.out.println(Thread.currentThread().getName()+"进来 。。。。。");
         }
     }
-
-
 }
