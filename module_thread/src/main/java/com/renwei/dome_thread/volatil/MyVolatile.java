@@ -16,8 +16,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class MyVolatile {
     private static ThreadLocal<Integer> local = new ThreadLocal<>();
 
-    private static AtomicInteger atomicInteger=new AtomicInteger(0);
-
     public volatile static boolean b = false;
     public static void main(String[] args) throws InterruptedException {
 

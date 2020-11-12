@@ -16,6 +16,7 @@ public class MyLock {
     Lock lock = new ReentrantLock();
     public void fun(){
         lock.lock();
+        lock.unlock();
     }
 
 }
