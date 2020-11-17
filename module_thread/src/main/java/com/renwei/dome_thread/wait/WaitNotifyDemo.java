@@ -1,4 +1,4 @@
-package com.renwei.dome_thread.gupaothread;
+package com.renwei.dome_thread.wait;
 
 import java.util.LinkedList;
 import java.util.Queue;

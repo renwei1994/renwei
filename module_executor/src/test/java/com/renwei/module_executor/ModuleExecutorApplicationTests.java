@@ -1,4 +1,4 @@
-package com.example.module_executor;
+package com.renwei.module_executor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.module_executor;
+package com.renwei.module_executor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
