@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class MyVolatile {
     private static ThreadLocal<Integer> local = new ThreadLocal<>();
 
-    public volatile static boolean b = false;
+    public  static boolean b = false;
     public static void main(String[] args) throws InterruptedException {
 
         local.get();
@@ -24,7 +24,9 @@ public class MyVolatile {
         new Thread(() -> {
             int i = 0;
             while (!b) {
-//                System.err.println("result:"+i);
+                //这是一个同步方法synchronized
+                //他会把高速缓存中的值同步至主内存中
+                System.err.println("result:"+i);
                 i++;
             }
             System.out.println("result:"+i);
