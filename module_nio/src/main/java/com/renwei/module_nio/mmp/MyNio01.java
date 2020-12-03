@@ -1,4 +1,4 @@
-package com.renwei.module_nio.nio;
+package com.renwei.module_nio.mmp;
 
 import java.io.IOException;
 import java.nio.MappedByteBuffer;
