@@ -10,6 +10,12 @@
         <option value="$PROJECT_DIR$/module_common/pom.xml" />
         <option value="$PROJECT_DIR$/dome_thread/pom.xml" />
         <option value="$PROJECT_DIR$/module_annotion/pom.xml" />
+        <option value="$PROJECT_DIR$/module_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/module_executor/pom.xml" />
+        <option value="$PROJECT_DIR$/io/pom.xml" />
+        <option value="$PROJECT_DIR$/module_rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/module_nio/pom.xml" />
+        <option value="$PROJECT_DIR$/module_jvm_dome/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

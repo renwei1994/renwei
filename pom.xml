@@ -6,19 +6,23 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.3.4.RELEASE</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example.service</groupId>
     <artifactId>renwei</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>renwei</name>
     <description>Demo project for Spring Boot</description>
-
+    <packaging>pom</packaging>
     <modules>
         <module>module_common</module>
         <module>module_datasource</module>
         <module>module_thread</module>
         <module>module_annotion</module>
+        <module>module_executor</module>
+        <module>module_io</module>
+        <module>module_rpc</module>
+        <module>module_nio</module>
+        <module>module_jvm_dome</module>
     </modules>
 
     <properties>
