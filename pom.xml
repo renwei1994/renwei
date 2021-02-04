@@ -14,7 +14,6 @@
     <description>Demo project for Spring Boot</description>
     <packaging>pom</packaging>
     <modules>
-        <module>module_common</module>
         <module>module_datasource</module>
         <module>module_thread</module>
         <module>module_annotion</module>
@@ -23,6 +22,7 @@
         <module>module_rpc</module>
         <module>module_nio</module>
         <module>module_jvm_dome</module>
+        <module>module_nginx</module>
     </modules>
 
     <properties>

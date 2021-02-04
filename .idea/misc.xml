@@ -7,7 +7,6 @@
         <option value="$PROJECT_DIR$/jdkdemo/pom.xml" />
         <option value="$PROJECT_DIR$/redis_demo/pom.xml" />
         <option value="$PROJECT_DIR$/mongodb_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/module_common/pom.xml" />
         <option value="$PROJECT_DIR$/dome_thread/pom.xml" />
         <option value="$PROJECT_DIR$/module_annotion/pom.xml" />
         <option value="$PROJECT_DIR$/module_datasource/pom.xml" />
@@ -16,6 +15,7 @@
         <option value="$PROJECT_DIR$/module_rpc/pom.xml" />
         <option value="$PROJECT_DIR$/module_nio/pom.xml" />
         <option value="$PROJECT_DIR$/module_jvm_dome/pom.xml" />
+        <option value="$PROJECT_DIR$/module_nginx/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -26,7 +26,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11.0.4" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/module_annotion/module_annotion.iml" filepath="$PROJECT_DIR$/module_annotion/module_annotion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module_common/module_common.iml" filepath="$PROJECT_DIR$/module_common/module_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_datasource/module_datasource.iml" filepath="$PROJECT_DIR$/module_datasource/module_datasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_executor/module_executor.iml" filepath="$PROJECT_DIR$/module_executor/module_executor.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_io/module_io.iml" filepath="$PROJECT_DIR$/module_io/module_io.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_jvm_dome/module_jvm_dome.iml" filepath="$PROJECT_DIR$/module_jvm_dome/module_jvm_dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_nginx/module_nginx.iml" filepath="$PROJECT_DIR$/module_nginx/module_nginx.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_nio/module_nio.iml" filepath="$PROJECT_DIR$/module_nio/module_nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_rpc/module_rpc.iml" filepath="$PROJECT_DIR$/module_rpc/module_rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_thread/module_thread.iml" filepath="$PROJECT_DIR$/module_thread/module_thread.iml" />

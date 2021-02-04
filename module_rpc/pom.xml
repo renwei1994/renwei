@@ -6,7 +6,6 @@
         <groupId>com.example.service</groupId>
         <artifactId>renwei</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.renwei</groupId>
     <artifactId>rpc</artifactId>

@@ -7,14 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="module_jvm_dome" />
+        <module name="module_io" />
         <module name="module_executor" />
         <module name="module_thread" />
         <module name="module_datasource" />
         <module name="module_rpc" />
-        <module name="module_annotion" />
-        <module name="module_common" />
         <module name="module_nio" />
-        <module name="module_io" />
+        <module name="module_annotion" />
+        <module name="module_nginx" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +29,7 @@
       <module name="module_jdk_demo" target="1.8" />
       <module name="module_jvm_dome" target="1.8" />
       <module name="module_mongodb_demo" target="1.8" />
+      <module name="module_nginx" target="1.8" />
       <module name="module_nio" target="1.8" />
       <module name="module_redis_demo" target="1.8" />
       <module name="module_rpc" target="1.8" />
@@ -52,6 +53,7 @@
       <module name="module_jdk_demo" options="-parameters" />
       <module name="module_jvm_dome" options="-parameters" />
       <module name="module_mongodb_demo" options="-parameters" />
+      <module name="module_nginx" options="-parameters" />
       <module name="module_nio" options="-parameters" />
       <module name="module_redis_demo" options="-parameters" />
       <module name="module_rpc" options="-parameters" />

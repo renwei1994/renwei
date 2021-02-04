@@ -1,7 +1,5 @@
 package com.renwei.io.firstio;
 
-import org.omg.CORBA.portable.InputStream;
-
 import java.io.*;
 
 /**
